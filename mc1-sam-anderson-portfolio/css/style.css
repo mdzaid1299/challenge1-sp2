@@ -1,1 +1,428 @@
-/* Write CSS code here */
+#id1{
+    border-style: solid;
+    width: 75px;
+    height:55px;
+   margin-left: 20%;
+    border-radius: 10%;
+    text-align: center;
+    padding-top: 7px;
+    font-style: italic;
+
+}
+ #id2 {
+    text-align: center;
+
+
+
+}
+#id3{
+    background-color: indianred;
+    color: white;
+    width: 30%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#id4{
+    font-size: large;
+    color: rgb(48, 45, 45);
+    font: 3em sans-serif;
+    margin-top: 2px;
+
+}
+#p1{
+    width: 350px;
+    margin: auto;
+    margin-top: 2px;
+    font: 1em sans-serif;
+    font-size: large;
+    color: rgb(102, 100, 100);
+    font-family: fantasy;
+    margin-top: 2px;
+
+    padding: 10px;
+}
+#h2{
+    margin-right: 10%;
+    margin-top: 3%;
+    color: dimgrey;
+   font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: antiquewhite;
+}
+#h31 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+
+
+}
+#h32 a{
+    margin-right: 12%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+
+
+}
+#h33 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+
+}
+#h34 a{
+    margin-right: 11.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h35 a{
+    color: rgb(71, 70, 70);
+    margin-right: 15%;
+    text-decoration: none;
+}
+#h36 a{
+    margin-right: 10.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h37 a{
+    margin-right: 20.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h38 a{
+    margin-right: 13.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h39 a{
+    margin-right: 15%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h301 a{
+    margin-right: 10%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+.p2{
+    margin-right: 21.5%;
+    color: gray
+    ;
+}
+#h302 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+}
+#h303{
+    margin-right: 15%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h304 a{
+    margin-right: 12%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+
+}
+#h305{
+    margin-right: 15.5%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h306 a {
+
+    margin-right: 22%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+}
+#h307 {
+    margin-right: 21%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h308 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+
+}
+#h309 {
+    margin-right: 21%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h310 a{
+    margin-right: 21%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+
+
+}
+#h311{
+    margin-right: 21%;
+    text-decoration: none;
+    color: gray;
+
+}
+.a1 {
+
+    font-size: x-large;
+    list-style: none;
+    color: gray;
+    margin: auto;
+    margin-right: 20%;
+
+
+
+}
+#hr1 {
+    margin-bottom: 2%;
+}
+.f1{
+
+    text-align: center;
+    color: rgb(56, 55, 55);
+    text-decoration: none;
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+#id1{
+    border-style: solid;
+    width: 75px;
+    height:55px;
+   margin-left: 20%;
+    border-radius: 10%;
+    text-align: center;
+    padding-top: 7px;
+    font-style: italic;
+
+}
+ #id2 {
+    text-align: center;
+
+
+
+}
+#id3{
+    background-color: indianred;
+    color: white;
+    width: 30%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#id4{
+    font-size: large;
+    color: rgb(48, 45, 45);
+    font: 3em sans-serif;
+    margin-top: 2px;
+
+}
+#p1{
+    width: 350px;
+    margin: auto;
+    margin-top: 2px;
+    font: 1em sans-serif;
+    font-size: large;
+    color: rgb(102, 100, 100);
+    font-family: fantasy;
+    margin-top: 2px;
+
+    padding: 10px;
+}
+#h2{
+    margin-right: 10%;
+    margin-top: 3%;
+    color: dimgrey;
+   font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: antiquewhite;
+}
+#h31 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+
+
+}
+#h32 a{
+    margin-right: 12%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+
+
+}
+#h33 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+
+}
+#h34 a{
+    margin-right: 11.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h35 a{
+    color: rgb(71, 70, 70);
+    margin-right: 15%;
+    text-decoration: none;
+}
+#h36 a{
+    margin-right: 10.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h37 a{
+    margin-right: 20.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h38 a{
+    margin-right: 13.5%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h39 a{
+    margin-right: 15%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+#h301 a{
+    margin-right: 10%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+}
+.p2{
+    margin-right: 21.5%;
+    color: gray
+    ;
+}
+#h302 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+}
+#h303{
+    margin-right: 15%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h304 a{
+    margin-right: 12%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+
+}
+#h305{
+    margin-right: 15.5%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h306 a {
+
+    margin-right: 22%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+}
+#h307 {
+    margin-right: 21%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h308 a{
+    margin-right: 16%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+
+}
+#h309 {
+    margin-right: 21%;
+    text-decoration: none;
+    color: gray;
+
+}
+#h310 a{
+    margin-right: 21%;
+    text-decoration: none;
+    color: rgb(71, 70, 70);
+    font-size: x-large;
+
+
+}
+#h311{
+    margin-right: 21%;
+    text-decoration: none;
+    color: gray;
+
+}
+.a1 {
+
+    font-size: x-large;
+    list-style: none;
+    color: gray;
+    margin: auto;
+    margin-right: 20%;
+
+
+
+}
+#hr1 {
+    margin-bottom: 2%;
+}
+.f1{
+
+    text-align: center;
+    color: rgb(56, 55, 55);
+    text-decoration: none;
+
+}
+a{
+    text-align: center;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
