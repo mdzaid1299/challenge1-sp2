@@ -1,428 +1,89 @@
-#id1{
-    border-style: solid;
-    width: 75px;
-    height:55px;
-   margin-left: 20%;
-    border-radius: 10%;
+/* Write CSS code here */
+.name{
+    margin-left: 250px;
+    font-family: cursive;
+    padding: 30px;
+    width: 40px;
+    height: 30px;
+    font-size: 30px;
     text-align: center;
-    padding-top: 7px;
-    font-style: italic;
-
+    border: 7px solid black;
+    border-radius: 18%;
 }
- #id2 {
+
+#images{
+    margin-left: 500px;
+}
+img{
+    margin-left: 160px;
+}
+#container1{
+    color: rgb(255, 255, 255);
+    border:20px rgb(122, 94, 91);
+    background-color: salmon;
+    display: block;
+    padding: 15px;
+    padding-top: 5px;
     text-align: center;
-
-
-
-}
-#id3{
-    background-color: indianred;
-    color: white;
-    width: 30%;
-    padding: 10px;
-    border-radius: 5px;
-    margin: auto;
-    font-family: Arial, Helvetica, sans-serif;
-
-
-}
-#id4{
+    margin-right: 350px;
+    text-transform: uppercase;
     font-size: large;
-    color: rgb(48, 45, 45);
-    font: 3em sans-serif;
-    margin-top: 2px;
 
 }
-#p1{
-    width: 350px;
-    margin: auto;
-    margin-top: 2px;
-    font: 1em sans-serif;
+.sam{
+    font-family: 'Courier New', Courier, monospace;
+   
+    font-size:250%;
+    margin-left: 45px;
+    font-weight: bold;
+    color: black;
+   
+    
+}
+.designer{
+    font-size: larger;
+    margin-right: 390px;
+    font-weight: bold;
+    color:grey;
+    text-align: center;
+}
+.horizontal{
+    border:200px salmon;
+    background-color: salmon;
+    display:block;
+    block-size: px;
+    margin-right: 350px;
+    border-radius: 10px;
+}
+.featured{
+    color: grey;
+    margin: left 30px;
+}
+.line{
+    color: grey;
+    margin-right: 350px;
+
+}
+
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
     font-size: large;
-    color: rgb(102, 100, 100);
-    font-family: fantasy;
-    margin-top: 2px;
-
-    padding: 10px;
 }
-#h2{
-    margin-right: 10%;
-    margin-top: 3%;
-    color: dimgrey;
-   font-family: 'Times New Roman', Times, serif;
+
+ul{
+    list-style: none;
+}
+
+.nav1{
+    margin-left: 470px;
+    align-items: center;
+  
+}
+nav{
+    margin-left: 470px;
 }
 body{
-    background-color: antiquewhite;
+    background-color:aliceblue ;
 }
-#h31 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-
-
-}
-#h32 a{
-    margin-right: 12%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-
-
-}
-#h33 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-
-}
-#h34 a{
-    margin-right: 11.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h35 a{
-    color: rgb(71, 70, 70);
-    margin-right: 15%;
-    text-decoration: none;
-}
-#h36 a{
-    margin-right: 10.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h37 a{
-    margin-right: 20.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h38 a{
-    margin-right: 13.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h39 a{
-    margin-right: 15%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h301 a{
-    margin-right: 10%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-.p2{
-    margin-right: 21.5%;
-    color: gray
-    ;
-}
-#h302 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-}
-#h303{
-    margin-right: 15%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h304 a{
-    margin-right: 12%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-
-}
-#h305{
-    margin-right: 15.5%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h306 a {
-
-    margin-right: 22%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-}
-#h307 {
-    margin-right: 21%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h308 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-
-}
-#h309 {
-    margin-right: 21%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h310 a{
-    margin-right: 21%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-
-
-}
-#h311{
-    margin-right: 21%;
-    text-decoration: none;
-    color: gray;
-
-}
-.a1 {
-
-    font-size: x-large;
-    list-style: none;
-    color: gray;
-    margin: auto;
-    margin-right: 20%;
-
-
-
-}
-#hr1 {
-    margin-bottom: 2%;
-}
-.f1{
-
-    text-align: center;
-    color: rgb(56, 55, 55);
-    text-decoration: none;
-
-}
-a{
-    text-align: center;
-    text-decoration: none;
-
-}
-
-
-
-
-
-
-
-#id1{
-    border-style: solid;
-    width: 75px;
-    height:55px;
-   margin-left: 20%;
-    border-radius: 10%;
-    text-align: center;
-    padding-top: 7px;
-    font-style: italic;
-
-}
- #id2 {
-    text-align: center;
-
-
-
-}
-#id3{
-    background-color: indianred;
-    color: white;
-    width: 30%;
-    padding: 10px;
-    border-radius: 5px;
-    margin: auto;
-    font-family: Arial, Helvetica, sans-serif;
-
-
-}
-#id4{
-    font-size: large;
-    color: rgb(48, 45, 45);
-    font: 3em sans-serif;
-    margin-top: 2px;
-
-}
-#p1{
-    width: 350px;
-    margin: auto;
-    margin-top: 2px;
-    font: 1em sans-serif;
-    font-size: large;
-    color: rgb(102, 100, 100);
-    font-family: fantasy;
-    margin-top: 2px;
-
-    padding: 10px;
-}
-#h2{
-    margin-right: 10%;
-    margin-top: 3%;
-    color: dimgrey;
-   font-family: 'Times New Roman', Times, serif;
-}
-body{
-    background-color: antiquewhite;
-}
-#h31 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-
-
-}
-#h32 a{
-    margin-right: 12%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-
-
-}
-#h33 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-
-}
-#h34 a{
-    margin-right: 11.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h35 a{
-    color: rgb(71, 70, 70);
-    margin-right: 15%;
-    text-decoration: none;
-}
-#h36 a{
-    margin-right: 10.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h37 a{
-    margin-right: 20.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h38 a{
-    margin-right: 13.5%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h39 a{
-    margin-right: 15%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-#h301 a{
-    margin-right: 10%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-}
-.p2{
-    margin-right: 21.5%;
-    color: gray
-    ;
-}
-#h302 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-}
-#h303{
-    margin-right: 15%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h304 a{
-    margin-right: 12%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-
-}
-#h305{
-    margin-right: 15.5%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h306 a {
-
-    margin-right: 22%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-}
-#h307 {
-    margin-right: 21%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h308 a{
-    margin-right: 16%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-
-}
-#h309 {
-    margin-right: 21%;
-    text-decoration: none;
-    color: gray;
-
-}
-#h310 a{
-    margin-right: 21%;
-    text-decoration: none;
-    color: rgb(71, 70, 70);
-    font-size: x-large;
-
-
-}
-#h311{
-    margin-right: 21%;
-    text-decoration: none;
-    color: gray;
-
-}
-.a1 {
-
-    font-size: x-large;
-    list-style: none;
-    color: gray;
-    margin: auto;
-    margin-right: 20%;
-
-
-
-}
-#hr1 {
-    margin-bottom: 2%;
-}
-.f1{
-
-    text-align: center;
-    color: rgb(56, 55, 55);
-    text-decoration: none;
-
-}
-a{
-    text-align: center;
-    text-decoration: none;
-
-}
-
-
-
-
-
-
-
